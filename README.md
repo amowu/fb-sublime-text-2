@@ -13,7 +13,7 @@ Quick guide for installing it:
 4. Click next, select `Export all` and `Browse…` to save a backup of your
    current preferences somewhere.
 5. Keep that backup safe in case this all goes titsup.
-6. Choose `File` -> `Export` -> `Other`.
+6. Choose `File` -> `Import` -> `Other`.
 7. Open General and select Preferences.
 8. Browse to where you've downloaded **fb-sublime-text-2.epf** and select it. Make
    sure `Import all` is selected, ignore any warnings and hit `Finish`.
