@@ -15,6 +15,6 @@ Quick guide for installing it:
 5. Keep that backup safe in case this all goes titsup.
 6. Choose `File` -> `Import` -> `Other`.
 7. Open General and select Preferences.
-8. Browse to where you've downloaded **fb-sublime-text-2.epf** and select it. Make
-   sure `Import all` is selected, ignore any warnings and hit `Finish`.
-9. Choose `File` -> `Restart` to reload FlashBuilder.
+8. Browse to where you've downloaded **fb-sublime-text-2.epf** and select it.
+9. Make sure `Import all` is selected, ignore any warnings and hit `Finish`.
+10. Choose `File` -> `Restart` to reload FlashBuilder.
